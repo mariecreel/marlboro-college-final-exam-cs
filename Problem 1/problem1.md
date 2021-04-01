@@ -1,5 +1,5 @@
-Algorithms and Programming Languages Exam: Problem 1
-Nick Creel - Due April 17, 2020
+#Algorithms and Programming Languages Exam: Problem 1
+Marie Creel - Due April 17, 2020
 
 Problem:
 
@@ -236,16 +236,16 @@ Sources Used:
 
 All web sources were accessed on April 11, 2020.
 
-Python 3.8 Documentation:
+* Python 3.8 Documentation:
 	Execution Model https://docs.python.org/3.8/reference/executionmodel.html
     	Objects, Values, and Types https://docs.python.org/3.8/reference/datamodel.html
 	Simple statements https://docs.python.org/3.8/reference/simple_stmts.html
-Javascript Documentation:
+* Javascript Documentation:
 	Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
  	Var https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
  	a re-introduction to javascript
  	https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-C Documentation:
+* C Documentation:
 	The C Programming Language, second edition, Brian W. Kernighan and Dennis M. Ritchie (1988)
-Stack overflow:
+* Stack overflow:
 	nonlocal variables in python https://stackoverflow.com/questions/1261875/python-nonlocal-statement
