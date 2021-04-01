@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			function  makeColors(color){
+				return function(){
+					document.body.style.background = color
+				}
+			}
+
+			let pink = makeColors("pink");
+			let blue = makeColors("blue");
+		</script>			
+	</head>
+	<body>
+		<button onClick="pink()">Change Background To Pink</button>
+		<button onClick="blue()">Change Background To Blue</button>
+	</body>
+</html>	
