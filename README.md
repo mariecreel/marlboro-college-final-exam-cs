@@ -1,6 +1,8 @@
 # Final Exam for Graduation with a Computer Science degree - Marlboro College
 I completed this final exam as a degree requirement for graduating with a CS degree at Marlboro College. I earned an A- with these answers, and it took me a week to complete the exam.
 
+The exam focused on two key topics to my course of study at Marlboro: Algorithms and Programming Languages. 
+
 ## Original Language of the Exam Questions and Assignment, From Jim Mahoney
 
 computer science plan exam : algorithms and languages
