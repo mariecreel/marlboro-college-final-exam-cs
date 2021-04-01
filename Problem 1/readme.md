@@ -1,4 +1,4 @@
-# Algorithms and Programming Languages Exam: Problem 1
+# Algorithms and Programming Languages Exam: Problem 1 - Programming Languages and Variable Scope
 Marie Creel - Due April 17, 2020
 
 ## Problem:
