@@ -3,6 +3,10 @@ I completed this final exam as a degree requirement for graduating with a CS deg
 
 The exam focused on two key topics to my course of study at Marlboro: Algorithms and Programming Languages. 
 
+## WARNING ! On Plagiarism
+
+This code is licensed under the MIT License, which essentially means you can use it as you please. HOWEVER, I do not advise you to submit this code as your own for an assignment or an exam, ESPECIALLY if you're working with Jim (that would just be silly!). Plagiarism isn't cool.
+
 ## Original Language of the Exam Questions and Assignment, From Jim Mahoney
 
 computer science plan exam : algorithms and languages
